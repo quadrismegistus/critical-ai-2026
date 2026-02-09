@@ -1,0 +1,5 @@
+# Put your runtime dependencies here, one per line, for example:
+# numpy>=1.26
+# pandas>=2.2
+python-dotenv
+litellm
