@@ -17,7 +17,7 @@ classifiers = [
 dynamic = ["dependencies"]
 
 [project.urls]
-Repository = "https://github.com/ryan/critical-ai-2026"
+Repository = "https://github.com/quadrismegistus/critical-ai-2026"
 
 [tool.setuptools]
 py-modules = ["critical_ai_2026"]
