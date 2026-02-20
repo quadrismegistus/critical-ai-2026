@@ -1,0 +1,60 @@
+Earl Humaine-style emotion categories (2006).
+
+Categories:
+- Anger
+- Annoyance
+- Contempt
+- Disgust
+- Irritation
+- Anxiety
+- Embarrassment
+- Fear
+- Helplessness
+- Powerlessness
+- Worry
+- Doubt
+- Envy
+- Frustration
+- Guilt
+- Shame
+- Boredom
+- Despair
+- Disappointment
+- Hurt
+- Sadness
+- Stress
+- Shock
+- Tension
+- Amusement
+- Delight
+- Elation
+- Excitement
+- Happiness
+- Joy
+- Pleasure
+- Affection
+- Empathy
+- Friendliness
+- Love
+- Pride
+- Courage
+- Hope
+- Humility
+- Satisfaction
+- Trust
+- Calmness
+- Contentment
+- Relaxation
+- Relief
+- Serenity
+- Interest
+- Politeness
+- Surprise
+
+Context:
+- Fine-grained category set intended for nuanced affect labeling.
+
+Examples:
+1) "I can finally rest now that it's over." -> Relief
+2) "I feel small and exposed after that mistake." -> Shame
+3) "I'm tense and can't stop clenching my jaw." -> Tension

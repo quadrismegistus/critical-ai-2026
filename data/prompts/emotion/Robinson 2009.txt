@@ -1,0 +1,33 @@
+Contrasted emotion families (Robinson review, 2009).
+
+Families:
+- Interest/Curiosity/Enthusiasm
+- Alarm/Panic
+- Attraction/Desire/Admiration
+- Aversion/Disgust/Revulsion
+- Surprise/Amusement
+- Indifference/Habituation/Boredom
+- Hope/Excitement
+- Fear/Anxiety/Dread
+- Gratitude/Thankfulness
+- Anger/Rage
+- Joy/Elation/Triumph
+- Sorrow/Grief
+- Patience
+- Frustration/Restlessness
+- Contentment
+- Discontentment/Disappointment/Depression
+- Humility/Modesty/Confidence
+- Pride/Arrogance
+- Charity/Sympathy
+- Avarice/Greed/Envy/Jealousy
+- Love
+- Hate
+
+Context:
+- Classify by emotional function and object relation.
+
+Examples:
+1) "I'm on edge and expecting something bad." -> Fear/Anxiety/Dread
+2) "I appreciate what you did for me." -> Gratitude/Thankfulness
+3) "I want to stay near them all day." -> Attraction/Desire/Admiration

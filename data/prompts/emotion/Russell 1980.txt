@@ -1,0 +1,20 @@
+Russell circumplex model (1980).
+
+Dimensions:
+- Valence
+- Arousal
+
+Canonical categories:
+- Excited (high arousal, positive valence)
+- Happy (moderate arousal, positive valence)
+- Calm (low arousal, positive valence)
+- Relaxed (very low arousal, positive valence)
+- Bored (low arousal, negative valence)
+- Sad (low-moderate arousal, negative valence)
+- Distressed (moderate-high arousal, negative valence)
+- Angry (high arousal, negative valence)
+
+Examples:
+1) "I'm buzzing with energy and optimism." -> Excited
+2) "Everything feels pointless and slow." -> Bored
+3) "I'm furious and shaking." -> Angry

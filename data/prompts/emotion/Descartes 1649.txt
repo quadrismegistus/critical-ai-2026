@@ -1,0 +1,18 @@
+Descartes primary passions framework (1649).
+
+Categories:
+- Wonder
+- Love
+- Hate
+- Desire
+- Joy
+- Sadness
+
+Context:
+- Speaker focus on novelty, attraction, aversion, wanting, pleasure, or pain.
+- Immediate appraisal of events and intentions.
+
+Examples:
+1) "I can't stop staring at this strange new phenomenon; I've never seen anything like it." -> Wonder
+2) "I feel drawn to them and want to stay close." -> Love
+3) "Everything feels heavy and I just want to cry." -> Sadness

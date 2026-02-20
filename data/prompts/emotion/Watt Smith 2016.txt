@@ -1,0 +1,88 @@
+Tiffany Watt Smith cross-cultural emotion inventory (2016).
+
+Categories (selected from the inventory):
+- Abhiman
+- Acedia
+- Amae
+- Ambiguphobia
+- Anger
+- Anticipation
+- Anxiety
+- Apathy
+- Bafflement
+- Basorexia
+- Befuddlement
+- Bewilderment
+- Boredom
+- Calm
+- Compassion
+- Confidence
+- Contempt
+- Contentment
+- Courage
+- Curiosity
+- Delight
+- Desire
+- Despair
+- Depression
+- Disappointment
+- Disgust
+- Dread
+- Ecstasy
+- Embarrassment
+- Empathy
+- Envy
+- Euphoria
+- Excitement
+- Fear
+- Frustration
+- Gratitude
+- Grief
+- Guilt
+- Happiness
+- Hatred
+- Homesickness
+- Hopefulness
+- Humiliation
+- Impatience
+- Indignation
+- Irritation
+- Jealousy
+- Joy
+- Loneliness
+- Love
+- Melancholy
+- Nostalgia
+- Overwhelmed
+- Panic
+- Paranoia
+- Pity
+- Pride
+- Rage
+- Regret
+- Relief
+- Remorse
+- Resentment
+- Sadness
+- Satisfaction
+- Saudade
+- Schadenfreude
+- Shame
+- Shock
+- Surprise
+- Suspicion
+- Terror
+- Triumph
+- Uncertainty
+- Vengefulness
+- Vulnerability
+- Wonder
+- Worry
+
+Context:
+- Broad lexicon including culture-specific emotion terms.
+
+Examples:
+1) "I feel bittersweet longing for a place I can't return to." -> Saudade
+2) "I'm pleased by my rival's failure, even though I shouldn't be." -> Schadenfreude
+3) "I feel an urgent, gnawing fear about what's next." -> Anxiety

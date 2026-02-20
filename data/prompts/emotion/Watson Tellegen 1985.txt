@@ -1,0 +1,21 @@
+Positive Activation-Negative Activation model (Watson and Tellegen, 1985).
+
+Dimensions:
+- Positive affect
+- Negative affect
+
+Category profiles:
+- High Positive Affect
+- Low Positive Affect
+- High Negative Affect
+- Low Negative Affect
+- Mixed High (both high)
+- Flat Low (both low)
+
+Context:
+- Positive and negative affect are partially independent axes.
+
+Examples:
+1) "I'm energized, enthusiastic, and engaged." -> High Positive Affect
+2) "I'm tense, upset, and irritable." -> High Negative Affect
+3) "I'm emotionally muted and detached." -> Flat Low

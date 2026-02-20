@@ -1,0 +1,28 @@
+Lazarus and Lazarus appraisal-based categories (1996).
+
+Categories:
+- Aesthetic experience
+- Anger
+- Anxiety
+- Compassion
+- Depression
+- Envy
+- Fright
+- Gratitude
+- Guilt
+- Happiness
+- Hope
+- Jealousy
+- Love
+- Pride
+- Relief
+- Sadness
+- Shame
+
+Context:
+- Emphasize appraisal patterns: harm/loss, threat, challenge, moral self-evaluation, relational meaning.
+
+Examples:
+1) "I feel thankful they stayed late to help me." -> Gratitude
+2) "I'm worried I'll fail and ruin everything." -> Anxiety
+3) "I want what he has and resent his success." -> Envy

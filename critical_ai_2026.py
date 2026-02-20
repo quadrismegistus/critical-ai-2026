@@ -106,3 +106,17 @@ def generate_json(
     except Exception as e:
         print(f"Error parsing JSON: {e}")
         return None
+
+
+def truncate_text(text, max_lines):
+    lines = text.split("\n")
+    out = []
+    nl = 0
+    for i, line in enumerate(lines):
+        out.append(line)
+        if line.strip():
+            nl += 1
+        if nl > max_lines:
+            break
+        
+    return "\n".join(out)

@@ -1,0 +1,21 @@
+Wundt dimensional model (1897).
+
+Dimensions:
+- Pleasant vs Unpleasant
+- Arousing vs Subduing
+- Strain vs Relaxation
+
+Category profiles:
+- Pleasant-Arousing-Strain
+- Pleasant-Arousing-Relaxation
+- Pleasant-Subduing-Strain
+- Pleasant-Subduing-Relaxation
+- Unpleasant-Arousing-Strain
+- Unpleasant-Arousing-Relaxation
+- Unpleasant-Subduing-Strain
+- Unpleasant-Subduing-Relaxation
+
+Examples:
+1) "I'm excited and tense before the competition." -> Pleasant-Arousing-Strain
+2) "I feel calm and content after the massage." -> Pleasant-Subduing-Relaxation
+3) "I'm drained, miserable, and numb." -> Unpleasant-Subduing-Strain

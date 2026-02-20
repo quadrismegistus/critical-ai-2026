@@ -1,0 +1,21 @@
+PAD model (Mehrabian and Russell, 1980).
+
+Dimensions:
+- Pleasure
+- Arousal
+- Dominance
+
+Category profiles:
+- Joyful (P+, A+, D+)
+- Relaxed (P+, A-, D+)
+- Content (P+, A-, D-)
+- Excited (P+, A+, D-)
+- Angry (P-, A+, D+)
+- Anxious (P-, A+, D-)
+- Sad (P-, A-, D-)
+- Bored (P-, A-, D+)
+
+Examples:
+1) "I feel in control, upbeat, and ready to act." -> Joyful
+2) "I feel threatened and powerless." -> Anxious
+3) "I feel low-energy and down." -> Sad

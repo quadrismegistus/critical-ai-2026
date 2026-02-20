@@ -1,0 +1,18 @@
+William James basic-emotion set (1890).
+
+Categories:
+- Fear
+- Grief
+- Love
+- Rage
+
+Context:
+- Fear: threat, alarm, avoidance.
+- Grief: loss, sorrow, mourning.
+- Love: attachment, affection, care.
+- Rage: intense anger and hostile action tendency.
+
+Examples:
+1) "My chest tightened when I heard footsteps behind me at night." -> Fear
+2) "Since she passed, I feel hollow every morning." -> Grief
+3) "He cut in line again and I wanted to yell and slam the door." -> Rage

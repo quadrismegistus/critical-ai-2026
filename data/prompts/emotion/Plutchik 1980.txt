@@ -1,0 +1,19 @@
+Plutchik wheel of emotions (1980).
+
+Primary categories:
+- Joy
+- Trust
+- Fear
+- Surprise
+- Sadness
+- Disgust
+- Anger
+- Anticipation
+
+Context:
+- Emotion dyads may appear in text; map to the nearest primary category.
+
+Examples:
+1) "I'm looking forward to the launch tomorrow." -> Anticipation
+2) "I feel betrayed and bitter." -> Anger
+3) "I feel close and safe with her." -> Trust

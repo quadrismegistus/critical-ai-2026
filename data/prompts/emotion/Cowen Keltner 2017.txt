@@ -1,0 +1,38 @@
+Cowen and Keltner emotion taxonomy (2017).
+
+Categories:
+- Admiration
+- Adoration
+- Aesthetic appreciation
+- Amusement
+- Anger
+- Anxiety
+- Awe
+- Awkwardness
+- Boredom
+- Calmness
+- Confusion
+- Craving
+- Disgust
+- Empathic pain
+- Entrancement
+- Excitement
+- Fear
+- Horror
+- Interest
+- Joy
+- Nostalgia
+- Relief
+- Romance
+- Sadness
+- Satisfaction
+- Sexual desire
+- Surprise
+
+Context:
+- Fine-grained continuous emotion space represented with discrete category anchors.
+
+Examples:
+1) "That cathedral was breathtaking and left me speechless." -> Awe
+2) "I miss those childhood summers so much." -> Nostalgia
+3) "I felt secondhand pain watching her get humiliated." -> Empathic pain

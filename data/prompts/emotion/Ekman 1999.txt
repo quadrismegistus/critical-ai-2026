@@ -1,0 +1,28 @@
+Ekman expanded basic-emotion set (1999).
+
+Categories:
+- Anger
+- Disgust
+- Fear
+- Happiness
+- Sadness
+- Surprise
+- Amusement
+- Contempt
+- Contentment
+- Embarrassment
+- Excitement
+- Guilt
+- Pride in achievement
+- Relief
+- Satisfaction
+- Sensory pleasure
+- Shame
+
+Context:
+- Prioritize the behaviorally central emotion in mixed affect states.
+
+Examples:
+1) "I finally submitted the thesis and can breathe again." -> Relief
+2) "I can't believe I said that in front of everyone." -> Embarrassment
+3) "I nailed the exam and feel proud of my effort." -> Pride in achievement

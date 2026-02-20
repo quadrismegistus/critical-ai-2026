@@ -3,3 +3,6 @@
 # pandas>=2.2
 python-dotenv
 litellm
+pandas
+hashstash[rec]
+plotnine

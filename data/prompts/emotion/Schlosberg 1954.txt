@@ -1,0 +1,21 @@
+Schlosberg three-dimensional model (1954).
+
+Dimensions:
+- Pleasantness-Unpleasantness
+- Attention-Rejection
+- Activation level (low-high)
+
+Category profiles:
+- Pleasant Attention High Activation
+- Pleasant Attention Low Activation
+- Pleasant Rejection High Activation
+- Pleasant Rejection Low Activation
+- Unpleasant Attention High Activation
+- Unpleasant Attention Low Activation
+- Unpleasant Rejection High Activation
+- Unpleasant Rejection Low Activation
+
+Examples:
+1) "That new idea is fascinating and energizing." -> Pleasant Attention High Activation
+2) "I hate this and want it away from me right now." -> Unpleasant Rejection High Activation
+3) "I feel bored and disengaged by this topic." -> Unpleasant Rejection Low Activation

@@ -1,0 +1,17 @@
+Shaver et al. hierarchical prototype model (1987).
+
+Primary categories:
+- Love
+- Joy
+- Surprise
+- Anger
+- Sadness
+- Fear
+
+Context:
+- Nuanced descriptors map to the nearest primary family.
+
+Examples:
+1) "I miss them deeply and feel abandoned." -> Sadness
+2) "I'm curious and delighted by this unexpected gift." -> Surprise
+3) "I feel tenderness and affection for him." -> Love

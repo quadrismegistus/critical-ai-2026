@@ -1,0 +1,17 @@
+Parrott tree-structured emotions (2001).
+
+Primary groups:
+- Love
+- Joy
+- Surprise
+- Anger
+- Sadness
+- Fear
+
+Context:
+- Secondary and tertiary terms map to one primary group.
+
+Examples:
+1) "I'm resentful and full of spite." -> Anger
+2) "I'm hopeful and optimistic about tomorrow." -> Joy
+3) "I'm panicking and feel dread." -> Fear

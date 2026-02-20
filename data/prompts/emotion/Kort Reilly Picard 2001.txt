@@ -1,0 +1,17 @@
+Six emotion axes for learning affect (Kort, Reilly, Picard, 2001).
+
+Axis-state categories:
+- Anxiety-Worry-Discomfort-Comfort-Hopeful-Confident
+- Ennui-Boredom-Indifference-Interest-Curiosity-Intrigue
+- Frustration-Puzzlement-Confusion-Insight-Enlightenment-Epiphany
+- Dispirited-Disappointed-Dissatisfied-Satisfied-Thrilled-Enthusiastic
+- Terror-Dread-Apprehension-Calm-Anticipatory-Excited
+- Humiliated-Embarrassed-Self-conscious-Pleased-Satisfied-Proud
+
+Context:
+- Useful for transitions in emotional states during learning.
+
+Examples:
+1) "I was confused, then suddenly everything clicked." -> Frustration-Puzzlement-Confusion-Insight-Enlightenment-Epiphany
+2) "I'm deeply uneasy and keep catastrophizing." -> Anxiety-Worry-Discomfort-Comfort-Hopeful-Confident
+3) "I'm thrilled and highly motivated now." -> Dispirited-Disappointed-Dissatisfied-Satisfied-Thrilled-Enthusiastic

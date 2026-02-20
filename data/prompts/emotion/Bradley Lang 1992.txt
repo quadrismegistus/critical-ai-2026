@@ -1,0 +1,20 @@
+Vector model of emotion (Bradley, Greenwald, Petry, Lang, 1992).
+
+Dimensions:
+- Valence direction
+- Arousal intensity
+
+Category profiles:
+- Positive High Arousal
+- Positive Low Arousal
+- Negative High Arousal
+- Negative Low Arousal
+- Neutral Low Arousal
+
+Context:
+- Arousal is always present; valence determines vector direction.
+
+Examples:
+1) "I feel thrilled and motivated." -> Positive High Arousal
+2) "I feel mildly down but not agitated." -> Negative Low Arousal
+3) "Nothing much is happening emotionally right now." -> Neutral Low Arousal

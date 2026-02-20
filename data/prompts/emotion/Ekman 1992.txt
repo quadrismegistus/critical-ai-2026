@@ -1,0 +1,18 @@
+Ekman basic emotions (1992).
+
+Categories:
+- Anger
+- Disgust
+- Fear
+- Happiness
+- Sadness
+- Surprise
+
+Context:
+- Emphasize core affect signal over subtle social nuance.
+- Mixed signals map to the dominant emotion.
+
+Examples:
+1) "I jumped when the plate suddenly shattered behind me." -> Surprise
+2) "The smell made my stomach turn." -> Disgust
+3) "I can't stop smiling; this is the best day ever." -> Happiness
